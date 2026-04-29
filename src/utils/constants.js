@@ -9,9 +9,9 @@ export const SITE_CONFIG = {
   location: "Butuan City, Philippines",
   resumeUrl: "/resume.pdf", // HERE your CV at public/resume.pdf
   socials: {
-    github: "https://github.com/your-handle",
+    github: "https://github.com/migoyy",
     linkedin: "https://linkedin.com/in/miguel-emmanuel-regino-bbb7a9400",
-    twitter: "https://twitter.com/your-handle",
+    facebook: "https://facebook.com/migoyyyyyy",
   },
 };
 

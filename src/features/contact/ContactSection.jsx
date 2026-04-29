@@ -33,7 +33,7 @@ const CONTACT_ITEMS = [
   {
     Icon: FaGithub,
     label: "GitHub",
-    value: "@your-handle",
+    value: "@migoyy",
     href: SITE_CONFIG.socials.github,
   },
 ];

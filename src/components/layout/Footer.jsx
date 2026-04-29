@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaXTwitter } from "react-icons/fa6";
+import { FaGithub, FaLinkedin, FaFacebook } from "react-icons/fa6";
 import { HiEnvelope } from "react-icons/hi2";
 import { NAV_LINKS, SITE_CONFIG } from "@utils/constants";
 import Container from "@components/ui/Container";
@@ -6,7 +6,7 @@ import Container from "@components/ui/Container";
 const SOCIALS = [
   { href: SITE_CONFIG.socials.github, label: "GitHub", Icon: FaGithub },
   { href: SITE_CONFIG.socials.linkedin, label: "LinkedIn", Icon: FaLinkedin },
-  { href: SITE_CONFIG.socials.twitter, label: "Twitter", Icon: FaXTwitter },
+  { href: SITE_CONFIG.socials.facebook, label: "Facebook", Icon: FaFacebook },
   { href: `mailto:${SITE_CONFIG.email}`, label: "Email", Icon: HiEnvelope },
 ];
 
